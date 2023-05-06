@@ -1,6 +1,4 @@
-public class Test3 {
-
-
+public class Test3.java {
   
   
 }
